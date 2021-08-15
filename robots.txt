@@ -1,0 +1,5 @@
+User-agent: *
+Crawl-delay: 1
+Disallow: 
+Host: https://0lgyd.sse.codesandbox.io/
+Sitemap: https://0lgyd.sse.codesandbox.io/sitemap.xml
